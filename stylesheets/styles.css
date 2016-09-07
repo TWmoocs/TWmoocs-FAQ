@@ -1,10 +1,10 @@
 @font-face {
-  font-family: '微軟正黑體';
+  font-family: 'Adobe 繁黑體 Std B';
   font-weight: 400;
   font-style: normal;
   src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot');
   src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot?#iefix') format('embedded-opentype'),
-       local('微軟正黑體'),
+       local('Adobe 繁黑體 Std B'),
        local('Noto-Sans-regular'),
        url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff2') format('woff2'),
        url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff') format('woff'),
@@ -13,7 +13,7 @@
 }
 
 @font-face {
-  font-family: '微軟正黑體';
+  font-family: 'Adobe 繁黑體 Std B';
   font-weight: 700;
   font-style: normal;
   src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot');
